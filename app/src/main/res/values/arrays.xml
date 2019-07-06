@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+	<string-array name="need_display_system_process" translatable="false">		
+		<item>com.google.android.youtube</item>			
+		<item>com.google.android.gm</item>			
+		<item>com.android.vending</item>			
+		<item>com.google.android.apps.maps</item>			
+	</string-array>
+
+	<string-array name="force_stop_from_input_process" translatable="false">		
+		<item>com.qihoo.appstore</item>		
+		<item>jp.co.omronsoft.openwnn</item>	
+	</string-array>
+
+	<string-array name="init_default_not_kill" translatable="false">		
+		<item>com.tencent.mobileqq</item>
+		<item>com.tencent.mobileqqi</item>
+		<item>com.viber.voip</item>
+		<item>com.messenger.messenger</item>
+		<item>com.tencent.mm</item>
+		<item>com.whatsapp</item>
+		<item>com.skype.raider</item>
+		<item>com.facebook.orca</item>
+		<item>com.facebook.katana</item>
+		<item>com.Jaawalker.mytweeterapp</item>
+		<item>com.tencent.qqlite</item>
+		<item>jp.naver.line.android</item>
+		<item>com.autonavi.minimap</item>
+		<item>com.octopus.linkmanager</item>
+		<item>com.octopus.wifimanager</item>
+		<item>com.octopus.remoteserver</item>
+		<item>com.cootf.sims</item>
+		<item>com.camtalk.start</item>
+	</string-array>
+
+</resources>
